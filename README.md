@@ -4,7 +4,7 @@ Hi 👋 My name is Laura Stephenson
 Python Developer
 ----------------
 
-I have been learning code for years, but the coding bug bit me when I learned Python and began working on machine learning, data science, and large language models.
+I have been learning code for years, but the love of coding grabbed me when I learned Python and began working on cloud computing, machine learning, data science, and large language models.
 
 * 🌍  I'm based in Busan, South Korea
 * 🧠  I'm learning about cloud computing, Terraform, large language models, machine learning, data science, and project development.
