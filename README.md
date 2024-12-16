@@ -6,10 +6,10 @@ Python Developer
 
 I have been learning code for years, but the love of coding grabbed me when I learned Python and began working on cloud computing, machine learning, data science, and large language models.
 
-* 🌍  I'm based in Busan, South Korea
-* 🧠  I'm learning about cloud computing, Terraform, large language models, machine learning, data science, and project development.
-* 🤝  I'm open to collaborating on projects in cloud computing, Terraform, machine learning, data science, and large language models.
-* ⚡  As a university professor, I am an excellent communicator, writer, and curriculum developer. I also have a dog and two cats that keep me occupied.
+* 🌍  I'm based in Busan, South Korea, a vibrant city that fuels my creativity and drive.
+* 🧠  I'm learning about cloud computing, Terraform, large language models, machine learning, data science, and project development. Each of these areas offers unique challenges and opportunities for innovation.
+* 🤝  I'm open to collaborating on projects in cloud computing, Terraform, machine learning, data science, and large language models. I believe that teamwork and shared knowledge can lead to groundbreaking advancements.
+* ⚡  As a university professor, I am an excellent communicator, writer, and curriculum developer. I also have a dog and two cats that keep me grounded and inspired.
 
 ### Skills
 
