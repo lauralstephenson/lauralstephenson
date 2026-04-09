@@ -1,18 +1,19 @@
 Hi 👋 My name is Laura Stephenson
 =================================
 
-Python Developer
-----------------
+SOC-Focused Cybersecurity Analyst
+--------------------------------
 
-I have been learning code for years, but the love of coding grabbed me when I learned Python and began working on cloud computing, machine learning, data science, and large language models.
+Cybersecurity analyst with CompTIA Security+, PSAA, and hands-on experience in threat detection, log analysis, and network traffic investigation using Wireshark, TShark, Zeek, and Suricata.
 
-* 🌍  I'm based in Busan, South Korea, a vibrant city that fuels my creativity and drive.
-* 🧠  I'm learning about cloud computing, Terraform, large language models, machine learning, data science, and project development. Each of these areas offers unique challenges and opportunities for innovation.
-* 🤝  I'm open to collaborating on projects in cloud computing, Terraform, machine learning, data science, and large language models. I believe that teamwork and shared knowledge can lead to groundbreaking advancements.
-* ⚡  As a university professor, I am an excellent communicator, writer, and curriculum developer. I also have a dog and two cats that keep me grounded and inspired.
+- Analyzed packet captures and network traffic to identify suspicious activity and indicators of compromise  
+- Investigated alerts using structured SOC workflows and the MITRE ATT&CK framework  
+- Correlated logs and threat intelligence using tools such as VirusTotal  
+- Documented findings in clear, structured reports simulating real-world incident response  
+
+Background in academia with strong communication, documentation, and structured problem-solving skills.
 
 ### Skills
-
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
